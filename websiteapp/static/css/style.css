@@ -15,7 +15,7 @@
 
 :root {
     --bg-color: #000;
-    --bg2-color: #383636;
+    --bg2-color: #141212;
     --text-color: #fff;
     --red-color: #f71616;
     --red1-color: #c0c5b9;
@@ -208,6 +208,7 @@ span{
     padding: 3rem 2rem 4rem;
     text-align: center;
     border: .1rem solid var(--text-color);
+    border-radius: 10px;
     transform: .1s;
     transition: .5 ease;
 }
